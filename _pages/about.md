@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Diheng Zhang, a clinical psychology Ph.D. student at the University of
+Arizona"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
