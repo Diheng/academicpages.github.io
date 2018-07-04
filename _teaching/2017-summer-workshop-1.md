@@ -1,5 +1,5 @@
 ---
-title: "Data Management and Analysis with R - a Five Sessions Bootcamp"
+title: "Data Management and Analysis with R"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2017-summer-workshop-1
@@ -8,7 +8,7 @@ date: 2017-07-01
 location: "Charlottesville, USA"
 ---
 
-This was a workshop delivered to the summer research assistants of the Program
+This was a five-sessions workshop delivered to the summer research assistants of the Program
 of Anxiety, Cognition and Treatment Lab as part of their trainings. The
 workshop covered basic R and Rstudio usage, important R packages like dplyr,
 and basic concepts of data management and manipulation. RAs were asked to write
