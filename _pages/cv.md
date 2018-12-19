@@ -9,11 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+*For a complete CV, please download [here](http://diheng.github.io/files/Diheng_Zhang[CV].pdf).
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Applied Psychology, Nanjing University, 2012
+* M.A. in Clinical Psychology, Columbia University, 2014
 
 Work experience
 ======
@@ -27,15 +28,6 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
