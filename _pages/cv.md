@@ -13,20 +13,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in Applied Psychology, Nanjing University, 2012
 * M.A. in Clinical Psychology, Columbia University, 2014
+* B.S. in Applied Psychology, Nanjing University, 2012
 
-Work experience
+Work experience (Recent)
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jun. 2015 - Jun. 2018: Project Coordinator
+  * [PACT Lab](https://www.projectimplicit.net/bethany/), University of Virginia
+  * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
+  * Supervisor: Bethany Teachman, Ph.D.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Aug. 2018 – Present: Graduate Assistant
+  * [Psychophysiology Lab](https://jallen.faculty.arizona.edu/psychophysiology_laboratory), University of Arizona 
+  * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
+  * Supervisor: John J.B. Allen, Ph.D.
   
 Publications
 ======
