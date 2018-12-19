@@ -18,15 +18,15 @@ Education
 
 Work experience (Recent)
 ======
-* Jun. 2015 - Jun. 2018: Project Coordinator
-  * [PACT Lab](https://www.projectimplicit.net/bethany/), University of Virginia
-  * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
-  * Supervisor: Bethany Teachman, Ph.D.
-
 * Aug. 2018 – Present: Graduate Assistant
   * [Psychophysiology Lab](https://jallen.faculty.arizona.edu/psychophysiology_laboratory), University of Arizona 
   * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
   * Supervisor: John J.B. Allen, Ph.D.
+
+* Jun. 2015 - Jun. 2018: Project Coordinator
+  * [PACT Lab](https://www.projectimplicit.net/bethany/), University of Virginia
+  * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
+  * Supervisor: Bethany Teachman, Ph.D.
   
 Publications
 ======
