@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 {% include base_path %}
 
 *For a complete CV, please download [here](http://diheng.github.io/files/Diheng_Zhang[CV].pdf).
@@ -18,6 +19,11 @@ Education
 
 Work experience (Recent)
 ======
+* Jun. 2019 – Aug. 2019: Visiting Researcher 
+  * [Schapiro Lab](https://www.schapirolab.org/), University of Pennsylvania 
+  * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
+  * Supervisor: Anna Schapiro, Ph.D.
+
 * Aug. 2018 – Present: Graduate Assistant
   * [Psychophysiology Lab](https://jallen.faculty.arizona.edu/psychophysiology_laboratory), University of Arizona 
   * Duties included: See my complete [CV](http://diheng.github.io/files/Diheng_Zhang[CV].pdf) for the details
@@ -46,6 +52,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
